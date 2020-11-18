@@ -18,4 +18,5 @@ printf("To apotelesma tis afairesis(-) twan arithmwn einai %f\n", af);
 printf("To apotelesma tou poll/mou(*) twan arithmwn einai %f\n", pol);
 printf("To apotelesma tis dieraisis(/) twan arithmwn einai %f\n", di);
 printf("To akeraio upoloipo twn aritmwn einai: %f", up);
+ return 0;
 }
